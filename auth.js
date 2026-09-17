@@ -1,3 +1,4 @@
+// Updated login logic for feature branch
 function login(username, password) {
     // Tài khoản bị khóa
     if (username === 'locked') {
